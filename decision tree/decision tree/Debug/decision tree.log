@@ -1,0 +1,5 @@
+﻿  decision.cpp
+c:\users\12043\source\repos\decision tree\decision tree\decision.cpp(112): warning C4273: “log2”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(518): note: 参见“log2”的前一个定义
+c:\users\12043\source\repos\decision tree\decision tree\decision.cpp(393): warning C4715: “classify_tree”: 不是所有的控件路径都返回值
+  decision tree.vcxproj -> C:\Users\12043\source\repos\decision tree\Debug\decision tree.exe
